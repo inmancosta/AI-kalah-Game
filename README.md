@@ -1,4 +1,5 @@
 # AI-kalah-Game
+<img src = "https://github.com/inmancosta/AI-kalah-Game/assets/120146242/9048829a-940b-4113-9e81-09375ae48b4d" width="350" height="200">
 
 Kalah is a traditional African and Asian game that has been played for centuries. This project aims to create a program that plays the game of Kalah effectively. The game involves two players, North and South, who take turns making moves on a board with multiple holes and pots. The objective is to collect the most beans in your pot by the end of the game.
 
