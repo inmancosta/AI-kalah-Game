@@ -45,7 +45,7 @@ Example Usage
 
 Here's an example of how to run a game with a human player (Marge) against a bad computer player (Homer) on a 3-hole board:
 
-cpp
+
 Copy code
 #include "Board.h"
 #include "Game.h"
