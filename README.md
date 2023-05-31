@@ -53,8 +53,7 @@ Copy code <br>
 #include "HumanPlayer.h" <br>
 #include "BadPlayer.h" <br>
 
-int main() <br>
-{ <br>
+int main() { <br>
     HumanPlayer hp("Marge"); <br>
     BadPlayer bp("Homer"); <br>
     Board b(3, 2); <br>
