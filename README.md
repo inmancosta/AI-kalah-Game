@@ -46,18 +46,18 @@ Example Usage
 Here's an example of how to run a game with a human player (Marge) against a bad computer player (Homer) on a 3-hole board:
 
 
-Copy code
-#include "Board.h"
-#include "Game.h"
-#include "HumanPlayer.h"
-#include "BadPlayer.h"
+Copy code <br>
+#include "Board.h" <br>
+#include "Game.h" <br>
+#include "HumanPlayer.h" <br>
+#include "BadPlayer.h" <br>
 
-int main()
-{
-    HumanPlayer hp("Marge");
-    BadPlayer bp("Homer");
-    Board b(3, 2);
-    Game g(b, &hp, &bp);
-    g.play();
-    return 0;
+int main() <br>
+{ <br>
+    HumanPlayer hp("Marge"); <br>
+    BadPlayer bp("Homer"); <br>
+    Board b(3, 2); <br>
+    Game g(b, &hp, &bp); <br>
+    g.play(); <br>
+    return 0; <br>
 }
