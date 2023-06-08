@@ -44,7 +44,7 @@ To run the Kalah game, compile the source code files and execute the resulting p
 
 Example Usage
 
-Here's an example of how to run a game with a human player (Marge) against a bad computer player (Homer) on a 3-hole board:
+Here's an example of how to run a game with a human player (Marge) against a smart computer player (Homer) on a 3-hole board:
 
 
 Copy code <br>
