@@ -55,9 +55,9 @@ Copy code <br>
 
 int main() { <br>
     HumanPlayer hp("Marge"); <br>
-    BadPlayer bp("Homer"); <br>
+    SmartPlayer sp("Homer"); <br>
     Board b(3, 2); <br>
-    Game g(b, &hp, &bp); <br>
+    Game g(b, &hp, &sp); <br>
     g.play(); <br>
     return 0; <br>
 }
